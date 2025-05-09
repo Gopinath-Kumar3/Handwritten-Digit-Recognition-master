@@ -1,4 +1,5 @@
 **"Recognizing Handwritten Digits with Deep Learning for Smarter AI Applications"**:
+https://handwritten-digit-recognition-master-fxgmzdynhyoucwq6vqdryt.streamlit.app/
 
 ---
 ````markdown
@@ -6,7 +7,6 @@
 
 This project implements a deep learning-based approach to recognize handwritten digits using the MNIST dataset. It leverages Convolutional Neural Networks (CNNs) to achieve high accuracy and is deployed via a simple Streamlit web interface.
 
-https://handwritten-digit-recognition-master-fxgmzdynhyoucwq6vqdryt.streamlit.app/
 
 ## 🚀 Project Overview
 
